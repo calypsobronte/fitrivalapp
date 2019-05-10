@@ -1,0 +1,29 @@
+{
+  "name": "fitrivalapp",
+  "version": "1.0.0",
+  "description": "FitRival App Beta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calypsobronte/fitrivalapp.git"
+  },
+  "keywords": [
+    "fit",
+    "rival",
+    "app",
+    "play",
+    "store",
+    "website",
+    "js",
+    "emprendimiento"
+  ],
+  "author": "Calypso Bronte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calypsobronte/fitrivalapp/issues"
+  },
+  "homepage": "https://github.com/calypsobronte/fitrivalapp#readme"
+}
