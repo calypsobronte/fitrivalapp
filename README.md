@@ -12,3 +12,6 @@ Buscamos ser la solución que permita aumentar la autoestima de los jóvenes uni
 
 Luis David Ortiz (Programador Mobile)
 Omar Alvarez (Creador de Contenido)
+
+# License
+[MIT](https://github.com/calypsobronte/fitrivalapp/blob/master/LICENSE)
